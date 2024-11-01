@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Check Tax Vat Id Woo\n"
+"POT-Creation-Date: 2020-09-04 18:09+0200\n"
+"PO-Revision-Date: 2020-09-04 18:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: mlfactory\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: check-tax-vat-id-woo.php:60 check-tax-vat-id-woo.php:178
+msgid "Privatperson"
+msgstr "Private person"
+
+#: check-tax-vat-id-woo.php:62
+msgid "Unternehmen/Privatperson"
+msgstr "Company/Private person"
+
+#: check-tax-vat-id-woo.php:65 check-tax-vat-id-woo.php:350
+msgid "UST ID"
+msgstr "VAT ID"
+
+#: check-tax-vat-id-woo.php:88
+msgid "Umkehr der Steuerschuld<br/>§ 13b Abs. 2 UStG"
+msgstr "Reversal of tax liability<br/>§ 13b paragraph 2 UStG"
+
+#: check-tax-vat-id-woo.php:179
+msgid "Unternehmen"
+msgstr "Company"
+
+#: check-tax-vat-id-woo.php:258
+msgid "UST ID:"
+msgstr "VAT ID:"
+
+#: check-tax-vat-id-woo.php:311
+msgid "UST ID gültig.<br />Umkehr der Steuerschuld wird angewendet."
+msgstr "VAT ID valid.<br />Reverse Charge is applied."
+
+#: check-tax-vat-id-woo.php:320 check-tax-vat-id-woo.php:325
+msgid "Für diese UST ID ist keine Umkehr der Steuerschuld möglich."
+msgstr "No Reverse Charge is possible for this VAT ID."
+
+#: check-tax-vat-id-woo.php:345
+msgid "Ust. ID"
+msgstr "VAT ID"
+
+#: check-tax-vat-id-woo.php:351
+msgid "Geben Sie hier Ihre UST ID ein"
+msgstr "Enter your VAT ID here"
